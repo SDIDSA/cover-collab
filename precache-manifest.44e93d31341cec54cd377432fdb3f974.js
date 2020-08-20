@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "023779f3237d560aa5007b7ed923d0e4",
+    "revision": "8a03fa15dd2538f6c14c87018d361b61",
     "url": "/cover-collab/index.html"
   },
   {
-    "revision": "866be1e11280e424111c",
-    "url": "/cover-collab/static/css/main.407ad9e8.chunk.css"
+    "revision": "4faa104557f6acd6c28a",
+    "url": "/cover-collab/static/css/main.5f3f167e.chunk.css"
   },
   {
-    "revision": "d5c932f8c76f2e7ba579",
-    "url": "/cover-collab/static/js/2.fb9d5f7a.chunk.js"
+    "revision": "561a2f8913d37349424e",
+    "url": "/cover-collab/static/js/2.143dc5f4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cover-collab/static/js/2.fb9d5f7a.chunk.js.LICENSE.txt"
+    "url": "/cover-collab/static/js/2.143dc5f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "866be1e11280e424111c",
-    "url": "/cover-collab/static/js/main.3a274989.chunk.js"
+    "revision": "4faa104557f6acd6c28a",
+    "url": "/cover-collab/static/js/main.373b71cd.chunk.js"
   },
   {
     "revision": "01ad7f64f12032c2f7da",
