@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "274f7043fc1899ef4738d3a0c44848c4",
+    "revision": "e01f479409231addc74c18bcc8d0edb4",
     "url": "/cover-collab/index.html"
   },
   {
-    "revision": "5524a15a97fee5d9b3db",
-    "url": "/cover-collab/static/css/main.1e6adf7e.chunk.css"
+    "revision": "6afe4124bbfb82860370",
+    "url": "/cover-collab/static/css/main.8cf8d67a.chunk.css"
   },
   {
-    "revision": "d5c932f8c76f2e7ba579",
-    "url": "/cover-collab/static/js/2.fb9d5f7a.chunk.js"
+    "revision": "561a2f8913d37349424e",
+    "url": "/cover-collab/static/js/2.143dc5f4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cover-collab/static/js/2.fb9d5f7a.chunk.js.LICENSE.txt"
+    "url": "/cover-collab/static/js/2.143dc5f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5524a15a97fee5d9b3db",
-    "url": "/cover-collab/static/js/main.4b07d3f1.chunk.js"
+    "revision": "6afe4124bbfb82860370",
+    "url": "/cover-collab/static/js/main.4c63da2e.chunk.js"
   },
   {
     "revision": "01ad7f64f12032c2f7da",
